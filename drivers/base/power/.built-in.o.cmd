@@ -1,0 +1,1 @@
+cmd_drivers/base/power/built-in.o :=  /home/pasquale/android/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o drivers/base/power/built-in.o drivers/base/power/sysfs.o drivers/base/power/main.o drivers/base/power/wakeup.o drivers/base/power/generic_ops.o 

@@ -1,0 +1,5 @@
+--- drivers/gpu/Makefile
++++ drivers/gpu/Makefile
+@@ -1 +1 @@
+-obj-y			+= drm/ vga/ stub/
++obj-y			+= drm/ vga/ stub/ ion/

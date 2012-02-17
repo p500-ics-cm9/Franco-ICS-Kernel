@@ -1,0 +1,1 @@
+cmd_net/netfilter/nf_conntrack_h323.o := /home/pasquale/android/arm-2009q3/bin/arm-none-eabi-ld -EL    -r -o net/netfilter/nf_conntrack_h323.o net/netfilter/nf_conntrack_h323_main.o net/netfilter/nf_conntrack_h323_asn1.o 
